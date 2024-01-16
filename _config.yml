@@ -130,10 +130,10 @@ remove-ads: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#E7F3FC"
-navbar-text-col: "#404040"
+navbar-text-col: "#395166"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#404040"
+text-col: "#253D52"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#E7F3FC"
